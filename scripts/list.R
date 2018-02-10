@@ -158,6 +158,7 @@ list_rl1
 summary(list_rl1)
 str(list_rl1)
 
+list_rl1
 
 
 
